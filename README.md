@@ -1,14 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Showrav
+#### Doing Undergrad At East Delta University, Chittagong
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-**Showrav-Dhar/Showrav-Dhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: C/ C++ / JAVA / PYTHON 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Competitive Programming , Web Development 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Showrav-Dhar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/showrav-dhar-649242227//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Showrav_Dhar_99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/dip7890)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showrav-Dhar)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Showrav-Dhar&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Showrav-Dhar)  
+
+![GitHub metrics](https://metrics.lecoq.io/Showrav-Dhar)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Showrav-Dhar)  
+
