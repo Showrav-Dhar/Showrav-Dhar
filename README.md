@@ -11,7 +11,7 @@ Skills: C/ C++ / JAVA / PYTHON
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Showrav-Dhar)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Showrav-Dhar&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Showrav-Dhar&show_icons=true&count_private=true)  
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Showrav-Dhar)  
 
