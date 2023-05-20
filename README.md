@@ -1,7 +1,7 @@
 ### Hi there 👋, My Name Is Showrav
 #### Doing Undergrad At East Delta University, Chittagong
 
-Skills:  C/ C++ / JAVA / PYTHON
+Skills:  C/ C++ / JAVA / PYTHON / MySQL
 
 - 🌱 I’m currently learning Competitive Programming,Web Development 
 
