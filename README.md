@@ -6,6 +6,7 @@ Skills:  C/ C++ / PYTHON / DJANGO / MySQL
 - 🌱 Interested in Competitive Programming, Machine Learning, Web Development.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/showrav-dhar-649242227/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/Showrav_Dhar_99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/dip7890)  
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='LeetCode' height='40'>](https://leetcode.com/dsteep54/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Showrav-Dhar&show_icons=true)  
 
